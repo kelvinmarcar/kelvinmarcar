@@ -8,7 +8,7 @@ ICT Technician | CompTIA Security+ | Microsoft 365 & Active Directory Labs | Ide
 
 I work in data center operations and continuously build hands-on labs to strengthen my skills in enterprise IT administration.
 
-My focus is on Microsoft environments including Active Directory, Microsoft 365, identity management, device management, and enterprise infrastructure. I use home labs to simulate real-world administrative scenarios involving user management, security policies, device enrollment, and collaboration services.
+My focus is on Microsoft environments including Active Directory, Microsoft 365, identity management, device management, and enterprise infrastructure. I use home labs to simulate real-world administrative scenarios involving user management, security policies, device enrollment, troubleshooting, and collaboration services.
 
 My goal is to continue developing practical experience in enterprise IT environments while progressing toward system administration and cloud administration roles.
 
@@ -71,6 +71,25 @@ https://github.com/kelvinmarcar/microsoft-365-enterprise-admin-lab
 
 ---
 
+### Enterprise IT Troubleshooting Lab
+
+Hands-on enterprise troubleshooting lab demonstrating structured incident investigation across Windows and Linux systems in a simulated enterprise environment.
+
+**Key implementations:**
+
+• Windows client performance diagnostics using Task Manager and Event Viewer  
+• DNS troubleshooting across Windows and Linux systems  
+• Investigation and resolution of an IPv6 DNS precedence issue  
+• DHCP service verification on Windows Server  
+• Remote server support using SSH on Ubuntu Server  
+• Network diagnostics using ping, ipconfig, nslookup, and dig  
+• System security verification and final infrastructure validation  
+
+Project documentation and screenshots:  
+https://github.com/kelvinmarcar/enterprise-it-troubleshooting-lab
+
+---
+
 ## Certifications
 
 • CompTIA Security+  
@@ -92,6 +111,7 @@ I am currently focused on building practical experience in:
 • Microsoft 365 administration  
 • Identity and access management  
 • Device management and endpoint administration  
+• Enterprise troubleshooting and system diagnostics  
 
 Target roles include:
 
