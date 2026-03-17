@@ -71,9 +71,28 @@ https://github.com/kelvinmarcar/microsoft-365-enterprise-admin-lab
 
 ---
 
+### IT Support Troubleshooting Lab
+
+Hands-on IT support lab demonstrating structured troubleshooting across Windows and Linux systems in a simulated enterprise environment.
+
+**Key implementations:**
+
+• Windows performance diagnostics using Task Manager and Event Viewer  
+• DNS troubleshooting across Windows and Linux systems  
+• Investigation and resolution of IPv6 DNS precedence issues  
+• DHCP service verification on Windows Server  
+• Remote server support using SSH on Ubuntu Server  
+• Network diagnostics using ping, ipconfig, nslookup, and dig  
+• System security verification and infrastructure validation  
+
+Project documentation and screenshots:  
+https://github.com/kelvinmarcar/enterprise-it-troubleshooting-lab
+
+---
+
 ### Enterprise Network Troubleshooting Lab
 
-Hands-on enterprise network troubleshooting lab demonstrating structured incident investigation across Windows, Linux, and network infrastructure in a simulated enterprise environment.
+Enterprise network troubleshooting lab demonstrating structured OSI-layer diagnostics across Windows, Linux, and network infrastructure.
 
 **Key implementations:**
 
@@ -120,4 +139,4 @@ Target roles include:
 • Junior System Administrator  
 • Junior Cloud Administrator  
 • Microsoft 365 Administrator (Entry Level)
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/64f469d5-8d42-4901-9afd-207785a97f78" />
+<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/4de8dfa1-9456-4245-9df5-577da787cbbe" />
