@@ -1,31 +1,89 @@
 # Kelvin Jacob Marcar
 
-ICT Technician | CompTIA Security+ | Microsoft 365 & Active Directory Labs | Identity, Device Management & Enterprise IT Administration
+### IT Technician | IT Support Specialist | Enterprise Support | Microsoft 365 | Active Directory | Networking
+
+IT Technician with hands-on experience in technical support, troubleshooting, IT infrastructure, networking, and enterprise environments. CompTIA and Microsoft certified, with a strong focus on delivering reliable IT support and continuously developing practical technical skills through real-world work and hands-on lab projects.
 
 ---
 
 ## About Me
 
-I work in data center operations and continuously build hands-on labs to strengthen my skills in enterprise IT administration.
+I currently work as an **IT Technician at Transtema**, supporting IT and network infrastructure in data center and enterprise environments.
 
-My focus is on Microsoft environments including Active Directory, Microsoft 365, identity management, device management, and enterprise infrastructure. I use home labs to simulate real-world administrative scenarios involving user management, security policies, device enrollment, troubleshooting, and collaboration services.
+My day-to-day work includes technical support, incident handling, installation, configuration, troubleshooting, and verification of IT and network equipment. I work with servers, switches, network connections, fiber/DAC, SFP/QSFP transceivers, and other infrastructure components while documenting findings and collaborating with other technical teams when escalation is required.
 
-My goal is to continue developing practical experience in enterprise IT environments while progressing toward system administration and cloud administration roles.
+I also have experience with end-user support, Microsoft 365, account administration, Windows environments, and ticket-based support.
+
+Outside of work, I build hands-on IT labs to strengthen my skills in **IT support, Windows Server, Active Directory, Microsoft 365, identity management, networking, and enterprise troubleshooting**.
+
+My goal is to continue developing as an **IT Technician and IT Support Specialist**, while gradually expanding my expertise in system administration, Microsoft 365, identity and access management, endpoint management, and enterprise infrastructure.
 
 ---
 
-## Core Skills
+## Technical Skills
 
-• Active Directory administration  
-• Microsoft 365 administration  
-• Microsoft Entra ID identity management  
-• Windows Server configuration  
-• User and group lifecycle management  
-• Microsoft Intune device management  
-• DNS configuration and troubleshooting  
-• Endpoint device administration  
-• Network fundamentals and troubleshooting  
-• Enterprise infrastructure lab design  
+### IT Support & Troubleshooting
+
+- End-user and technical support
+- Onsite and remote support
+- Hardware and software troubleshooting
+- Incident handling and escalation
+- Structured troubleshooting and root cause analysis
+- Ticket documentation and technical handover
+- ServiceNow
+- Jira
+
+### Microsoft & Enterprise IT
+
+- Windows 11
+- Windows Server
+- Microsoft 365
+- Active Directory
+- Microsoft Entra ID
+- User and group administration
+- Account and access management
+- Group Policy fundamentals
+- Microsoft Intune fundamentals
+- Endpoint and device administration
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- VLAN fundamentals
+- Network connectivity troubleshooting
+- Switch port troubleshooting
+- Fiber and DAC connections
+- SFP / QSFP transceivers
+- Basic routing and firewall troubleshooting
+- pfSense
+
+### Systems & Infrastructure
+
+- Server installation and troubleshooting
+- IT hardware installation and configuration
+- Data center and enterprise IT environments
+- Windows and Linux troubleshooting
+- Linux fundamentals
+- SSH and remote administration
+- Virtualized lab environments
+
+---
+
+## Professional Experience Focus
+
+In my current IT Technician role, I work with:
+
+- Installing, configuring, and maintaining IT and network equipment in data center and enterprise environments
+- Handling technical support, incidents, and infrastructure-related issues
+- Troubleshooting hardware, networks, and connectivity problems
+- Troubleshooting fiber/DAC, SFP/QSFP, switch ports, servers, and network equipment
+- Troubleshooting DNS, DHCP, TCP/IP, VLAN, and connectivity-related issues
+- Verifying physical and network-layer connectivity
+- Documenting troubleshooting steps, findings, and completed actions
+- Escalating complex incidents with clear technical documentation
+- Collaborating with technical teams across different areas of responsibility
 
 ---
 
@@ -33,110 +91,141 @@ My goal is to continue developing practical experience in enterprise IT environm
 
 ### Active Directory Home Lab
 
-A small enterprise-style Windows Server environment built using **Windows Server 2025** and a **Windows 11 client workstation** to simulate common IT administration tasks.
+Enterprise-style Windows Server environment built with **Windows Server 2025 and Windows 11** to simulate common IT administration and support tasks.
 
-**Key implementations:**
+**Implemented:**
 
-• Domain Controller deployment  
-• DNS configuration  
-• Organizational Unit (OU) structure  
-• Security groups and role-based access control (RBAC)  
-• User lifecycle management (create, reset password, disable accounts)  
-• Domain-joined Windows 11 client workstation  
-• Role-based shared folder permissions  
+- Active Directory Domain Services
+- Domain Controller deployment
+- DNS configuration
+- Organizational Unit structure
+- User and group administration
+- Security groups
+- Role-based access control
+- Password resets and account lifecycle management
+- Domain-joined Windows 11 workstation
+- Shared folder permissions
+- Group Policy configuration
 
-Project documentation and screenshots:  
+**Project:**  
 https://github.com/kelvinmarcar/active-directory-home-lab
 
 ---
 
 ### Microsoft 365 Enterprise Administration Lab
 
-Hands-on Microsoft 365 enterprise administration lab covering identity management, security configuration, device management, and collaboration services.
+Hands-on Microsoft 365 environment focused on identity, access, security, endpoint management, and collaboration services.
 
-**Key implementations:**
+**Implemented:**
 
-• Microsoft Entra ID user and group management  
-• Multi-Factor Authentication (MFA) configuration  
-• Conditional Access security policies  
-• Microsoft Intune device enrollment and compliance  
-• Windows 11 device management  
-• Exchange Online shared mailbox configuration  
-• Microsoft Teams collaboration channels  
-• Microsoft Defender monitoring  
-• Entra ID sign-in log auditing  
+- Microsoft Entra ID user and group management
+- Multi-Factor Authentication
+- Conditional Access policies
+- Microsoft Intune device enrollment
+- Device compliance configuration
+- Windows 11 device management
+- Exchange Online shared mailboxes
+- Microsoft Teams administration
+- Microsoft Defender monitoring
+- Entra ID sign-in log investigation
 
-Project documentation and screenshots:  
+**Project:**  
 https://github.com/kelvinmarcar/microsoft-365-enterprise-admin-lab
 
 ---
 
 ### IT Support Troubleshooting Lab
 
-Hands-on IT support lab demonstrating structured troubleshooting across Windows and Linux systems in a simulated enterprise environment.
+Hands-on enterprise IT support lab demonstrating structured troubleshooting across Windows and Linux environments.
 
-**Key implementations:**
+**Implemented:**
 
-• Windows performance diagnostics using Task Manager and Event Viewer  
-• DNS troubleshooting across Windows and Linux systems  
-• Investigation and resolution of IPv6 DNS precedence issues  
-• DHCP service verification on Windows Server  
-• Remote server support using SSH on Ubuntu Server  
-• Network diagnostics using ping, ipconfig, nslookup, and dig  
-• System security verification and infrastructure validation  
+- Windows performance troubleshooting
+- Event Viewer diagnostics
+- DNS troubleshooting
+- IPv4 and IPv6 troubleshooting
+- DHCP service verification
+- Linux system troubleshooting
+- Remote support using SSH
+- Network connectivity diagnostics
+- Infrastructure verification
+- Root cause analysis
 
-Project documentation and screenshots:  
+**Tools include:**
+
+`ping` `ipconfig` `nslookup` `dig` `Event Viewer` `Task Manager` `SSH`
+
+**Project:**  
 https://github.com/kelvinmarcar/enterprise-it-troubleshooting-lab
 
 ---
 
 ### Enterprise Network Troubleshooting Lab
 
-Enterprise network troubleshooting lab demonstrating structured OSI-layer diagnostics across Windows, Linux, and network infrastructure.
+Hands-on networking lab demonstrating structured troubleshooting across Windows, Linux, DNS, routing, and firewall infrastructure.
 
-**Key implementations:**
+**Implemented:**
 
-• DNS failure investigation and hostname resolution troubleshooting  
-• Network diagnostics using ping, nslookup, ipconfig, and routing analysis  
-• Firewall verification and infrastructure validation using pfSense  
-• Linux network diagnostics and system-level troubleshooting  
-• DNS forwarder configuration and enterprise DNS troubleshooting  
-• Root cause analysis and corrective network configuration  
-• Final infrastructure verification and connectivity validation  
+- DNS failure investigation
+- Hostname resolution troubleshooting
+- TCP/IP connectivity diagnostics
+- Routing analysis
+- pfSense firewall verification
+- Linux network troubleshooting
+- DNS forwarder configuration
+- Root cause analysis
+- Infrastructure validation
+- End-to-end connectivity verification
 
-Project documentation and screenshots:  
+**Project:**  
 https://github.com/kelvinmarcar/enterprise-network-troubleshooting-lab
 
 ---
 
 ## Certifications
 
-• CompTIA Security+  
-• CompTIA Network+  
-• CompTIA A+  
-• ISC2 Certified in Cybersecurity (CC)  
-• Microsoft Azure Fundamentals (AZ-900)  
-• Microsoft 365 Fundamentals (MS-900)  
-• Google IT Support Professional Certificate  
+- **CompTIA Security+**
+- **CompTIA Network+**
+- **CompTIA A+**
+- **ISC2 Certified in Cybersecurity (CC)**
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **Microsoft 365 Fundamentals (MS-900)**
+- **Google IT Support Professional Certificate**
 
 ---
 
-## Career Focus
+## Current Career Focus
 
-I am currently focused on building practical experience in:
+I am currently focused on strengthening my expertise in:
 
-• IT Support and Infrastructure Administration  
-• Windows Server and Active Directory environments  
-• Microsoft 365 administration  
-• Identity and access management  
-• Device management and endpoint administration  
-• Enterprise troubleshooting and system diagnostics  
+- IT Support
+- Onsite Support
+- Enterprise IT Support
+- Windows and Microsoft 365 environments
+- Active Directory and Microsoft Entra ID
+- Identity and access management
+- Endpoint and device management
+- Networking and connectivity troubleshooting
+- Windows Server administration
+- Enterprise infrastructure troubleshooting
 
-Target roles include:
+### Roles I Am Targeting
 
-• IT Support Technician  
-• IT Technician  
-• Junior System Administrator  
-• Junior Cloud Administrator  
-• Microsoft 365 Administrator (Entry Level)
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/4de8dfa1-9456-4245-9df5-577da787cbbe" />
+- IT Technician
+- IT Support Specialist
+- IT Support Engineer
+- Onsite Support Technician
+- Desktop Support Technician
+- Service Desk Technician
+- Technical Support Specialist
+- Junior System Administrator
+
+---
+
+## Professional Approach
+
+I approach IT support with a simple principle:
+
+**Understand the issue → troubleshoot systematically → verify the solution → document clearly → escalate when necessary.**
+
+I value reliability, clear communication, structured troubleshooting, continuous learning, and providing users with professional technical support.
